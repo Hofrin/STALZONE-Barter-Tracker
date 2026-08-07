@@ -1,4 +1,4 @@
-1. Download the latest version of the table https://github.com/Hofrin/STALZONE-Barter-Tracker/releases
+1. Download the latest version of the table (https://github.com/Hofrin/STALZONE-Barter-Tracker/releases)
 2. Right-click on the installed .xlsm file
 3. In the "General" tab, at the bottom, click the checkbox next to "Allow"
 4. Open the table
